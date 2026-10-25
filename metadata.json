@@ -1,0 +1,6 @@
+{
+  "name": "Preeti Coffee Shop | Your Everyday Coffee Escape",
+  "description": "Discover Preeti Coffee Shop, explore our coffee menu, and find your next favourite coffee moment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
